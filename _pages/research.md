@@ -1,0 +1,58 @@
+---
+ID: 856
+post_title: Research
+post_name: research
+post_date: 2017-02-10 21:33:29
+layout: page
+link: >
+  https://safetotsstage.wpengine.com/research/
+published: true
+tags: [ ]
+categories: [ ]
+---
+<img class=" wp-image-3326" src="https://safetotsstage.wpengine.com/wp-content/uploads/2019/05/istockphoto-1145260945-2048x2048-e1557561046188-300x183.jpg" alt="" width="1241" height="761" /> 
+### Why Research into Safe Conduct of Anesthesia is important The most important unsolved question is how to define “safe conduct” in pediatric anesthesia. In other words, what outcomes should we use to measure the “success” of anesthesia and perioperative care? This research priority generates many more fundamental questions: 
+
+*   What outcomes matter most to our patients and their families?
+*   What outcomes are most important to clinicians?
+*   What are the most important outcome measures for clinical researchers?
+*   Are these outcomes aligned?
+*   Can we, do we, should we routinely measure these outcomes in everyday clinical practice and/or in clinical trials?
+*   How can we improve these outcomes? (See [Quality Improvement][1])
+
+### What are the necessary steps to determine outcomes?
+
+#### **Identification of outcome measures and indicators** [bg_collapse view="link" color="#4d88b8" expand_text="⊕ Expand topic..." collapse_text="⊖ Collapse topic..." ]
+
+**Clinical expert- along with other stakeholders-based consensus is necessary** to identify indicators that could act as outcome measures in upcoming observational studies and trials. Such outcome measures have been established in adults and effort is currently under way in pediatric populations.[/bg_collapse] 
+#### Establishment of large multi-centric electronic databases of perioperative electronic records and pre-identified indicators [bg_collapse view="link" color="#4d88b8" expand_text="⊕ Expand topic..." collapse_text="⊖ Collapse topic..." ]
+
+**Such global BigData** approach will foster benchmarking and continuous quality assessment/improvement at the individual, institutional and inter-institutional levels. It will also facilitate clinical research at a large scale.[/bg_collapse] 
+#### Epidemiological studies, observational studies and trials [bg_collapse view="link" color="#4d88b8" expand_text="⊕ Expand topic..." collapse_text="⊖ Collapse topic..." ]
+
+**Conduct of clinical research** based on generally accepted and pre-identified outcome measures/indicators will most probably present a higher public health relevance. Such an approach will also facilitate comparing studies between each other and may open the way to increased funding resources.[/bg_collapse] 
+#### The influence of clinical expertise on outcome [bg_collapse view="link" color="#4d88b8" expand_text="⊕ Expand topic..." collapse_text="⊖ Collapse topic..." ]
+
+**There is a general agreement between pediatric anesthesia providers** that expertise matters on outcome. Although, for obvious ethical reasons, no randomized trial design can address this issue, there is epidemiological data suggesting a positive correlation between the level of expertise and outcome (or on the incidence of critical events).[/bg_collapse] 
+#### Pre-clinical and clinical physiological studies to determine “safe” [bg_collapse view="link" color="#4d88b8" expand_text="⊕ Expand topic..." collapse_text="⊖ Collapse topic..." ]
+
+**While there is a general consensus between anesthesia providers** to maintain physiological parameters in the “normal” or “safe” range during the perioperative period, we often do not know what these safe values are. For example, the physiological range of blood pressure that allows adequate organ perfusion and oxygen delivery to pediatric populations during the perioperative period is essentially unknown. Relatedly, the systemic blood pressure values leading to cerebral hypoperfusion are poorly defined. Neither we know to what extent intraoperative cerebral hypoperfusion may lead to brain injury during routine general anesthesia. The interaction between hypotension – hypo/hyperglycemia - hyo/hypercapnia in the perioperative setting also remains to be determined. Both preclinical laboratory models and clinical investigations will be necessary to better elucidate these questions.[/bg_collapse] 
+#### Research on neurodevelopmental outcomes [bg_collapse view="link" color="#4d88b8" expand_text="⊕ Expand topic..." collapse_text="⊖ Collapse topic..." ]
+
+**Over the past 15 years,** there has been considerable interests about the effects of general anesthetics on the developing brain. Laboratory studies have shown that these drugs can have a variety effects on the developing animal brain. Retrospective human epidemiological observations have revealed mixed results, while prospective studies and trials showed no impact of anesthesia/surgery on neurodevelopmental outcome as assessed by a battery of cognitive tests. Based on available current evidence, the European Consensus statement on the use of general anesthesia in pediatric populations recommends no change in clinical practice. **There are, nevertheless, several questions remaining open.** First, we do not know whether our current methodology to evaluate neuromorbidity is appropriate or some aspects of behavior/cognition are missed. Second, we do not know if there are specific genetic/epigenetic backgrounds displaying increased vulnerability to anesthesia/surgery. Third, we do not know how anesthetic drugs interact with surgery and other perioperative factors in terms neuromorbidity. Both preclinical models and clinical studies are warranted on these questions. **One important issue** is that, since we do not know how to measure it, we do not directly measure neuromorbidity in the perioperative period. Research and development of tools (along with the validation of these tools) to measure neuromorbidity will be essential to gain further insights into the effects of the perioperative period on the developing human brain.[/bg_collapse] 
+* * *[text-blocks id="footer_nav_professional"] 
+
+## 
+
+<div id="abt-bibliography" class="abt-bibliography noselect mceNonEditable" data-reflist="[&quot;uhdkp1cio&quot;]">
+  <div id="abt-bibliography__container" class="abt-bibliography__container">
+    <div id="uhdkp1cio">
+      <div class="csl-entry flush">
+        <div class="csl-left-margin">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+ [1]: /professionals/quality-improvement/
